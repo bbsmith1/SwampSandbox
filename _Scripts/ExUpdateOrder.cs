@@ -11,7 +11,7 @@ public class UpdateOrder : MonoBehaviour
    // Start is called before the first frame update
    void Start()
    {
-       Debug.Log("Start");
+       Debug.Log("Start Brian");
    }
    // Awake is called when the object is enabled
    void Awake()
